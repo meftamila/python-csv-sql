@@ -3,3 +3,8 @@
 ```
 pip install -r requirements.txt
 ```
+
+## To run the program, execute the following code in the terminal
+```
+python app.py
+```
